@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from '../components/pages/Home'
-import About from '../components/pages/About'
+import Projects from '../components/pages/Projects'
 
 
 const Links = () => {
@@ -9,7 +9,7 @@ const Links = () => {
     <>
       <Routes>
       <Route exact path='/' element={<Home/>}></Route>
-      <Route path='/about' element={<About/>}></Route>
+      <Route path='/projects' element={<Projects/>}></Route>
       </Routes>
       </>
   )

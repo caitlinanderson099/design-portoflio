@@ -60,7 +60,7 @@ footer {
     /* the banner image section */
     h1 {
         padding: 120px 20px;
-        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/public/img/banner-img.jpg');
+        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/img/banner-img.jpg');
         background-position: center;
         background-size: cover;
         color: white;
@@ -69,12 +69,12 @@ footer {
 }
 
 
-#about-page {
+#projects-page {
 
      /* the banner image section */
      h1 {
         padding: 120px 20px;
-        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/public/img/banner-img.jpg');
+        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/img/banner-img.jpg');
         background-position: center;
         background-size: cover;
         color: white;

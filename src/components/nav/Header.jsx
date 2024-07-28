@@ -7,7 +7,7 @@ const Header = () => {
       <h2> Caitlin's Design Portfolio </h2>
       <ul>
         <Link to='/'> Home</Link>
-        <Link to='/about'> About </Link>
+        <Link to='/projects'> Projects </Link>
       </ul>
      
     </header>
