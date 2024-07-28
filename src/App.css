@@ -80,7 +80,38 @@ footer {
         color: white;
         text-align: center;
     }
+}
 
+/* Project Cards */
+#projectCont {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 30px;
+
+    .project-card {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        margin: 10px;
+        width: 400px;
+        padding: 20px;
+        background-color: pink;
+        border-radius: 10px;
+        transition: all 0.3s ease;
+
+        button {
+            padding: 6px;
+            border-radius: 5px;
+            border: none;
+        }
+    }
+
+    .project-card:hover {
+        scale: 1.1;
+        transition: all 0.3s ease;
+    }
 }
 
 

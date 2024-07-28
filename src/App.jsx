@@ -4,6 +4,7 @@ import Links from './routes/Links'
 
 import Header from './components/nav/Header'
 import Footer from './components/nav/Footer'
+import Projects from './components/pages/Projects'
 
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <HashRouter>
         <Header/>
         <Links/>
+        <Projects/>
         <Footer/>
       </HashRouter>
       
