@@ -1,0 +1,94 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+/* ------------ STATIC ASSETS STYLING ------------ */
+
+/* Header Styling */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #1f1f1f;
+    color: white;
+
+    ul a {
+        margin: 0px 10px;
+        text-decoration: none;
+        color: white;
+        font-size: 1.2em;
+        transition: all 0.3s ease;
+        cursor: pointer;
+    }
+
+    a:hover {
+        color: rgb(172, 108, 233);
+        transition: all 0.3s ease;
+    }
+
+    h2{
+        transition: all 0.3s ease;
+        cursor: pointer;
+
+    }
+
+    h2:hover {
+        color: rgb(172, 108, 233);
+        transition: all 0.3s ease;
+    }
+}
+
+/* Footer Styling */
+footer {
+    background-color: #1f1f1f;
+    padding: 20px;
+    color: white;
+    font-family: "Nunito Sans", sans-serif;
+    text-align: center;
+}
+
+/* ------------ PAGE STYLING ------------ */
+
+/* Home Page */
+#home-page {
+
+    /* the banner image section */
+    h1 {
+        padding: 120px 20px;
+        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/public/img/banner-img.jpg');
+        background-position: center;
+        background-size: cover;
+        color: white;
+        text-align: center;
+    }
+}
+
+
+#about-page {
+
+     /* the banner image section */
+     h1 {
+        padding: 120px 20px;
+        background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/public/img/banner-img.jpg');
+        background-position: center;
+        background-size: cover;
+        color: white;
+        text-align: center;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+/* ------------ MEDIA QUERIES ------------ */
