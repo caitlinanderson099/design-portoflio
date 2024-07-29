@@ -63,11 +63,43 @@ header {
 
 /* Footer Styling */
 footer {
-    background-color: #1f1f1f;
-    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(202,120,231);
+    background: linear-gradient(90deg, rgba(202,120,231,1) 0%, rgba(113,67,129,1) 100%);     padding: 20px;
     color: white;
-    font-family: "Nunito Sans", sans-serif;
-    text-align: center;
+    padding: 20px;
+
+    h2 {
+        font-family: "Berkshire Swash", sans-serif;
+        letter-spacing: 1px;
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+
+
+    .contact-container {
+        display: flex;
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .contact-info {
+        display: flex;
+        gap: 20px;
+    }
+
+    #right-side {
+        display: flex;
+        flex-direction: column;
+        align-items: right;
+
+        #footer-logo {
+            width: 80px;
+            height: 80px;
+        }
+    }
 }
 
 /* Header 1 Styling */
