@@ -35,38 +35,38 @@
     },
 
     {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": "/img/project-img/placeholder-img(1).jpg"
+        "project_name": "Grilled Cheese App",
+        "project_type": "Ui Design",
+        "date": 2023,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/grilled-cheese-app(1).png"
 
     },
 
     {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": "/img/project-img/placeholder-img(1).jpg"
+        "project_name": "Cupcake Takeaway Bags",
+        "project_type": "Product Design",
+        "date": 2023,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/cupcake-bag(1).png"
 
     },
 
     {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": "/img/project-img/placeholder-img(1).jpg"
+        "project_name": "Ship 'n' Chip Brochure",
+        "project_type": "Graphic Design",
+        "date": 2023,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/brochure(2).jpg"
 
     },
 
     {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": "/img/project-img/placeholder-img(1).jpg"
+        "project_name": "E.T Movie Poster",
+        "project_type": "Graphic Design",
+        "date": 2023,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/movie-poster(1).png"
 
     }
 ]

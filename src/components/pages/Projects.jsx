@@ -50,7 +50,7 @@ const Projects = () => {
           <div id='button-container'>
             <button> All </button>
             <button> Web Design</button>
-            <button> Graphic Design </button>
+            <button> Ui Design </button>
             <button> Product Design </button>
           </div>
       </div>
