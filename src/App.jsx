@@ -14,7 +14,6 @@ const App = () => {
       <HashRouter>
         <Header/>
         <Links/>
-        <Projects/>
         <Footer/>
       </HashRouter>
       

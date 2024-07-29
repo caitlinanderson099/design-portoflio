@@ -24,7 +24,7 @@ const Projects = () => {
           <img src={project.project_images} alt='project image'/>
           <div className='project-details'>
             <h2> {project.project_name} </h2>
-            <h3> {project.project_type}  {project.date}</h3>
+            <h3> {project.project_type} | {project.date}</h3>
             <p> {project.description} </p>
             <button> Read More </button>
           </div>
@@ -42,11 +42,23 @@ const Projects = () => {
 
   // MASTER RETURN STATEMENT
   return (
-    <>
+    <div id='projects-page'>
+
+      <div id='project-heading'>
+          <h1> Take a Look At My Projects </h1>
+
+          <div id='button-container'>
+            <button> All </button>
+            <button> Web Design</button>
+            <button> Graphic Design </button>
+            <button> Product Design </button>
+          </div>
+      </div>
+
       <div id='projectCont'>
           <ProjectCard projects={projects}/>
         </div>
-    </>
+    </div>
   )
 }
 

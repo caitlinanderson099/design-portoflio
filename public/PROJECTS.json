@@ -1,12 +1,37 @@
 [
     {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": [
-            "", "", ""
-        ]
+        "project_name": "Accommodation Finder",
+        "project_type": "Website Design",
+        "date": 2024,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/accommodation(1).png"
+
+    },
+
+    {
+        "project_name": "Jewellery Supreme Store",
+        "project_type": "Website Design",
+        "date": 2024,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/jewellery-supreme(1).png"
+
+    },
+
+    {
+        "project_name": "Art of Food Redesign",
+        "project_type": "Website Design",
+        "date": 2024,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/art-of-food(1).png"
+    },
+
+    {
+        "project_name": "Sims 4 Cake Box",
+        "project_type": "Product Design",
+        "date": 2023,
+        "description": "This is a paragraph description of the project.",
+        "project_images": "/img/project-img/cake-box.jpeg"
+
     },
 
     {
@@ -14,9 +39,8 @@
         "project_type": "",
         "date": "",
         "description": "",
-        "project_images": [
-            "", "", ""
-        ]
+        "project_images": "/img/project-img/placeholder-img(1).jpg"
+
     },
 
     {
@@ -24,9 +48,8 @@
         "project_type": "",
         "date": "",
         "description": "",
-        "project_images": [
-            "", "", ""
-        ]
+        "project_images": "/img/project-img/placeholder-img(1).jpg"
+
     },
 
     {
@@ -34,9 +57,8 @@
         "project_type": "",
         "date": "",
         "description": "",
-        "project_images": [
-            "", "", ""
-        ]
+        "project_images": "/img/project-img/placeholder-img(1).jpg"
+
     },
 
     {
@@ -44,48 +66,7 @@
         "project_type": "",
         "date": "",
         "description": "",
-        "project_images": [
-            "", "", ""
-        ]
-    },
+        "project_images": "/img/project-img/placeholder-img(1).jpg"
 
-    {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": [
-            "", "", ""
-        ]
-    },
-
-    {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": [
-            "", "", ""
-        ]
-    },
-
-    {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": [
-            "", "", ""
-        ]
-    },
-
-    {
-        "project_name": "",
-        "project_type": "",
-        "date": "",
-        "description": "",
-        "project_images": [
-            "", "", ""
-        ]
     }
 ]

@@ -1,0 +1,47 @@
+[
+    {
+        "skill_name": "Html",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "GitHub",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "CSS/ Sass",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "JavaScript",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "Figma Prototyping",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "Adobe Creative Suite",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "React",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "Vite",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    },
+    {
+         "skill_name": "Vercel",
+        "skill_icon": "/img/project-img/placeholder-img(1).jpg"
+
+    }
+]
